@@ -8,7 +8,7 @@ public class Person {
 	// If class is entry point for program then constructor is "main"
 	public Person() { 
 		name = "unknown name";
-		maximumBooks = 10;		
+		maximumBooks = 20;		
 	}
 	
 	// these are the methods
